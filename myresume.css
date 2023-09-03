@@ -1,0 +1,40 @@
+body{
+    background-color:antiquewhite;
+    margin: 0px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    background-color: darkolivegreen;
+    width: 250px;
+    border: 2px solid white;
+    border-radius:100px ;
+}
+.prf{
+    margin: 10px 0px 0px 20px ;
+    width: 200px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 100px;
+}
+.headtxt{
+    margin: 70px 0px 110px 100px ;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+.sidebar{
+    margin: 0px 200px 0px 0px ;
+}
+.rightside{
+    margin: 0px 0px 0px 20px;
+    
+}
+.work{
+    margin: 185px 0px 0px 80px;
+}
+
